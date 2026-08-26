@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nilesh-gg/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-gg/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Nilesh-gg/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
